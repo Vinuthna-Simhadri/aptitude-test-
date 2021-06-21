@@ -521,3 +521,273 @@ Each of the questions given below consists of a question followed by three state
 ## h2 Explanation:
 ### h3 There are two series (8, 11, 14, 17, 20) and (7, 12, 17, 22) increasing by 3 and 5 respectively.
 
+# h1 aptitude test 3
+
+## h2 1.	The average monthly income of P and Q is Rs. 5050. The average monthly income of Q and R is Rs. 6250 and the average monthly income of P and R is Rs. 5200. The monthly income of P is:
+### h3 	A.	3500
+### h3 	B.	4000	
+### h3	C.	4050
+### h3	D.	5000
+#### h4 Correct Answer: Option B
+#### h4 Explanation:
+#### h4 Let P, Q and R represent their respective monthly incomes. Then, we have:
+#### h4 P + Q = (5050 x 2) = 10100 .... (i)
+#### h4 Q + R = (6250 x 2) = 12500 .... (ii)
+#### h4 P + R = (5200 x 2) = 10400 .... (iii)
+#### h4 Adding (i), (ii) and (iii), we get:  2(P + Q + R) = 33000  or   P + Q + R = 16500 .... (iv)
+#### h4 Subtracting (ii) from (iv), we get P = 4000.
+## h2 P's monthly income = Rs. 4000
+
+## h2 2.	A library has an average of 510 visitors on Sundays and 240 on other days. The average number of visitors per day in a month of 30 days beginning with a Sunday is:
+### h3 	A.	250	
+### h3 	B.	276
+### h3 	C.	280
+### h3 	D.	285
+#### h4 Correct Answer: Option D
+#### h4 Explanation:
+#### h4 Since the month begins with a Sunday, to there will be five Sundays in the month.
+##### h5 Required average	
+##### h5 =	(510 x 5 + 240 x 25/30)
+##### h5 =8550/30
+### h3 = 285
+
+## h2 3.	The sum of two number is 25 and their difference is 13. Find their product.
+### h3	A.104	
+### h3	B.	114
+### h3	C.	315
+### h3	D.	325
+## h2 Correct Answer: Option B
+## h2 Explanation:
+#### h4 Let the numbers be x and y.
+#### h4 Then, x + y = 25 and x - y = 13.
+##### h5 4xy = (x + y)2 - (x- y)2
+##### h5 = (25)2 - (13)2
+##### h5   = (625 - 169)
+##### h5   = 456
+##### h5 xy = 114.
+
+## h2 Direction (for Q.No. 4):
+## h2 Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements and
+
+### h3 Give answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.
+### h3 Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.
+### h3 Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.
+### h3 Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.
+### h3 Give answer(E) if the data in both Statements I and II together are necessary to answer the question.
+## h2 4.	What is the number?
+### h3I. The sum of the two digits is 8. The ratio of the two digits is 1 : 3.
+### h3  II. The product of the two digit of a number is 12. The quotient of two digits is 3.
+## h2	A.	I alone sufficient while II alone not sufficient to answer	
+## h2 	B.	II alone sufficient while I alone not sufficient to answer
+## h2 	C.	Either I or II alone sufficient to answer
+## h2 	D.	Both I and II are not sufficient to answer
+## h2 	E.	Both I and II are necessary to answer
+### h3 Correct Answer: Option C
+### h3 Explanation:
+#### h4 Let the tens and units digit be x and y respectively. Then,
+#### h4  I. x + y = 8 and	x/y=1/3
+#### h4  I gives, 4y = 24        y = 6.
+#### h4 So, x + 6 = 8        x = 2.
+#### h4 II. xy = 12 and	x/y	=	3/1
+#### h4  II gives, x2 = 36        x = 6.
+#### h4 So, 3y = 6        y = 2.
+### h3 Therefore, Either I or II alone sufficient to answer.
+
+## h2 5.	A is two years older than B who is twice as old as C. If the total of the ages of A, B and C be 27, then how old is B?
+### h3 	A.	7
+### h3 	B.	8	
+### h3 	C.	9
+### h3 	D.	10
+### h3 	E.	11
+## h2 Correct Answer: Option D
+## h2 Explanation:
+### h3 Let C's age be x years. Then, B's age = 2x years. A's age = (2x + 2) years.
+### h3  (2x + 2) + 2x + x = 27
+### h3  5x = 25
+### h3  x = 5.
+## h2Hence, B's age = 2x = 10 years.
+
+## h2 6.(17)3.5 x (17)? = 178
+### h3 	A.	2.29
+### h3 	B.	2.75
+### h3 	C.	4.25	
+### h3 	D.	4.5
+## h2 Correct Answer: Option D
+## h2 Explanation:
+## h2 Let (17)3.5 x (17)x = 178.
+### h3 Then, (17)3.5 + x = 178.
+### h3  3.5 + x = 8
+### h3 x = (8 - 3.5)
+## h2 x = 4.5
+
+## h2 7.If x = 3 + 22, then the value of	(√x	-	1/√x)^2	is:
+### h3	A.	1
+### h3 	B.	2
+### h3	C.	22	
+### h3	D.	33
+### h3 Correct Answer: Option B
+### h3 Explanation:
+#### h4( √x	-	1	/√x)^	2	= x +	1	- 2
+#### h4    = (3 + 2√2) +	1/(3+2√2)	- 2
+#### h4    = (3 + 2√2) +	1	/(3+2√2)x	(3 - 2√2)/(3-2√2)	- 2
+#### h4 (3 + 2√2)	+(3 -2√2)-2
+#### h4  = 4.
+### h3	(√x	-	1/√x)	= 2.
+
+## h2 8.A and B together have Rs. 1210. If  of A's amount is equal to  of B's amount, how much amount does B have?
+
+### h3 	A.	Rs. 460
+### h3 	B.	Rs. 484	
+### h3 	C.	Rs. 550
+### h3 	D.	Rs. 664
+### h3 Correct Answer: Option B
+### h3 Explanation:
+#### h4 4	/15A	=	2/5	B
+#### h4  A =	2	/5x	15/4	B
+#### h4  A =	3	/2B
+#### h4 	A/B	=	3/2
+### h3  A : B = 3 : 2.
+## h3 B's share = Rs.(	1210 x2/5)= Rs. 484.
+
+## h2 9.	Speed of a boat in standing water is 9 kmph and the speed of the stream is 1.5 kmph. A man rows to a place at a distance of 105 km and comes back to the starting point. The total time taken by him is:
+### h3 	A.	16 hours	
+### h3 	B.	18 hours
+### h3 	C.	20 hours
+### h3	D.	24 hours
+### h3 Correct Answer: Option D
+### h3 Explanation:
+### h3 Speed upstream = 7.5 kmph.
+### h3 Speed downstream = 10.5 kmph.
+### h3 Total time taken =		105/7.5	+	105/10.5	hours = 24 hours.
+
+## h2 10.	A sum fetched a total simple interest of Rs. 4016.25 at the rate of 9 p.c.p.a. in 5 years. What is the sum?
+### h3 	A.	Rs. 4462.50	
+### h3 	B.	Rs. 8032.50
+### h3 	C.	Rs. 8900
+### h3 	D.	Rs. 8925
+### h3	E.	None of these
+### h3 Correct Answer: Option D
+### h3 Explanation:
+### h3 Principal	
+#### h4 = Rs.		100 x 4016.25/9 x 5	
+#### h4 = Rs.		401625/45
+#### h4 = Rs. 8925.
+
+## h2 11.	A person takes a loan of Rs. 200 at 5% simple interest. He returns Rs. 100 at the end of 1 year. In order to clear his dues at the end of 2 years, he would pay:
+### h3 	A.	Rs. 105
+### h3	B.	Rs. 110
+### h3 	C.	Rs. 115	
+### h3 	D.	Rs. 115.50
+### h3 Correct Answer: Option C
+### h3 Explanation:
+#### h4 Amount to be paid	
+#### h4 = Rs.	(100 +	200 x 5 x 1	/100+	100 x 5 x 1	/100)
+#### h4 = Rs. 115.
+
+## h2 12.	The difference between the length and breadth of a rectangle is 23 m. If its perimeter is 206 m, then its area is:
+### h3 	A.	1520 m2	
+### h3 	B.	2420 m2
+### h3	C.	2480 m2
+### h3	D.	2520 m2
+### h3 Correct Answer: Option D
+### h3 Explanation:
+### h3 We have: (l - b) = 23 and 2(l + b) = 206 or (l + b) = 103.
+### h3 Solving the two equations, we get: l = 63 and b = 40.
+### h3  Area = (l x b) = (63 x 40) m2 = 2520 m2
+
+
+## h2 13.	What was the day of the week on 28th May, 2006?
+### h3 	A.	Thursday	
+### h3 	B.	Friday
+### h3 	C.	Saturday
+### h3	D.	Sunday
+### h3 Correct Answer: Option D
+### h3 Explanation:
+#### h4 28 May, 2006 = (2005 years + Period from 1.1.2006 to 28.5.2006)
+#### h4 Odd days in 1600 years = 0
+#### h4 Odd days in 400 years = 0
+#### h4 5 years = (4 ordinary years + 1 leap year) = (4 x 1 + 1 x 2)  6 odd days
+##### h5 Jan.  Feb.   March    April    May 
+##### h5 (31 +  28  +  31   +   30   +   28 ) = 148 days
+##### h5  148 days = (21 weeks + 1 day)  1 odd day.
+###### h6 Total number of odd days = (0 + 0 + 6 + 1) = 7  0 odd day.
+### h3 Given day is Sunday.
+
+## h2 14.	The angle between the minute hand and the hour hand of a clock when the time is 4.20, is:
+### h3 	A.	0°	
+### h3 	B.	10°
+### h3 	C.	5°
+### h3 	D.	20°
+### h3 Correct Answer: Option B
+### h3 Explanation:
+#### h4 Angle traced by hour hand in	13/3hrs =(360/12x	13/3)°	= 130°.
+#### h4 Angle traced by min. hand in 20 min. =(360/60x 20)°	= 120°.
+### h3 Required angle = (130 - 120)° = 10°.
+
+## h2 15.	At what angle the hands of a clock are inclined at 15 minutes past 5?
+### h3	A.	58	1/2	°
+### h3	B.	64°	
+### h3	C.	67	1/2	°
+### h3 	D.	72	1/2°
+### h3 Correct Answer: Option C
+### h3 Explanation:
+#### h4 Angle traced by hour hand in	21/4	hrs =		(360/12	x	21/4)°	=	157	1/2	°
+#### h4 Angle traced by min. hand in 15 min. =		(360/60	x 15)	°	= 90°.
+### h3  Required angle =		(157	1/2)	°	- 90° = 67	1/2	°
+
+## h2 16.	The angle between the minute hand and the hour hand of a clock when the time is 8.30, is:
+### h3 	A.	80°
+### h3	B.	75°
+### h3	C.	60°	
+### h3	D.	105°
+### h3 Correct Answer: Option B
+### h3 Explanation:
+#### h4 Angle traced by hour hand in	17/2	hrs =		(360/2	x	17/2)°	= 255°.
+#### h4 Angle traced by min. hand in 30 min. =		(360/60	x 30)°	= 180°.
+### h3 Required angle = (255 - 180)° = 75°.
+
+## h2 17.	At what time between 9 and 10 o'clock will the hands of a watch be together?
+### h3 	A.	45 min. past 9
+### h3 	B.	50 min. past 9
+### h3	C.	49 1/11	min. past 9
+### h3 	D.	48 2/11	min. past 9
+### h3 Correct Answer: Option C
+### h3 Explanation:
+### h3 To be together between 9 and 10 o'clock, the minute hand has to gain 45 min. spaces.
+### h3 55 min. spaces gained in 60 min.
+#### h4 45 min. spaces are gained in		(60/55x45)	min or 49	1/11 min.
+### h3 The hands are together at 49	1	min. past 9.
+
+## h218.	In how many ways can a group of 5 men and 2 women be made out of a total of 7 men and 3 women?
+### h3	A.	63	
+### h3	B.	90
+### h3 	C.	126
+### h3	D.	45
+### h3 	E.	135
+### h3 Correct Answer: Option A
+### h3 Explanation:
+### h3Required number of ways = (7C5 x 3C2) = (7C2 x 3C1) =	(7 x 6/2 x 1x 3)= 63.
+
+## h2 Direction (for Q.No. 19):
+### h3 Find out the wrong number in the given sequence of numbers.
+## h2 19.	8, 13, 21, 32, 47, 63, 83
+### h3	A.	47	
+### H3 	B.	63
+### H3 	C.	32
+### H3 	D.83
+### H3 Correct Answer: Option A
+### H3 Explanation:
+#### H4 Go on adding 5, 8, 11, 14, 17, 20.
+### H3 So, the number 47 is wrong and must be replaced by 46.
+
+## H2 Direction (for Q.No. 20):
+### H3 Insert the missing number.
+## H2 20.	1, 4, 9, 16, 25, 36, 49, (....)
+### H3 	A.	54	
+### H3 	B.	56
+### H3 	C.	64
+### H3 	D.	81
+### H3 Correct Answer: Option C
+### H3 Explanation:
+### H3 Numbers are 1^2, 2^2, 3^2, 4^2, 5^2, 6^2, 7^2.
+## H2So, the next number is 82 = 64.
