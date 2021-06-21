@@ -1,239 +1,235 @@
-<h1>aptitude test 1</h1>
+# h1 aptitude test 
 
-1.find the greatest number that will divide 43,91 and 183 so as to leave the same remainder in each case.
-A.4
-B.7
-C.9
-D.13
-ANS:Option A
-explaination:
-required number=H.C.F of (91-43),(183-91) and (183-43)=H.C.F of 48,92, and 140=4
+## h2 1.find the greatest number that will divide 43,91 and 183 so as to leave the same remainder in each case.
+### h3 A.4
+### h3 B.7
+### h3 C.9
+### h3 D.13
+## h2 ANS:Option A
+## h2 explaination:
+### h3 required number=H.C.F of (91-43),(183-91) and (183-43)=H.C.F of 48,92, and 140=4
 
-2.which of the following fraction is the largest ?
-A.7/8
-B.13/16
-C.31/40
-D.63/80
-ANS:Option A
-explaination:
-L.C.M. of 8,16,40,80=80
-7/8=70/80;13/16=65/80;31/40=62/80
-since,70/80>65>80;63/80>62/80.so 7/8>13/16>63/80>31/80
-so,7/8 is the largest 
+## h2 2.which of the following fraction is the largest ?
+### h3 A.7/8
+### h3 B.13/16
+### h3 C.31/40
+### h3 D.63/80
+## h2 ANS:Option A
+## h2 explaination:
+### h3 L.C.M. of 8,16,40,80=80
+### h3 7/8=70/80;13/16=65/80;31/40=62/80
+### h3 since,70/80>65>80;63/80>62/80.so 7/8>13/16>63/80>31/80
+### h3 so,7/8 is the largest 
 
-3. .009/?=0.1
-A. .0009
-B. .09
-C. .9
-D. 9
-ANS:Option C
-explaination:
-let .009/x=0.1;then x=.009/.01=.9/1=.9
+## h2 3. .009/?=0.1
+### h3 A. .0009
+### h3 B. .09
+### h3 C. .9
+### h3 D. 9
+## h2 ANS:Option C
+## h2 explaination:
+### h3 let .009/x=0.1;then x=.009/.01=.9/1=.9
 
-4.the least perfect,which is divisible by each of 21,36 and 66 is:
-A.213444
-B.214344
-C.214434
-D.231444
-ANS:Option A
-explaination:
-L.C.M. of 21,36,66=2772.
-now,2772=2×2×3×3×7×11
-to make it perfect square,it must be multiplied by 7×11
-so required number =2^2×3^2×7^2×11^2=213444
+## h2 4.the least perfect,which is divisible by each of 21,36 and 66 is:
+### h3 A.213444
+### h3 B.214344
+### h3 C.214434
+### h3 D.231444
+## h2 ANS:Option A
+## h2 explaination:
+### h3 L.C.M. of 21,36,66=2772.
+### h3 now,2772=2×2×3×3×7×11
+### h3 to make it perfect square,it must be multiplied by 7×11
+### h3 so required number =2^2×3^2×7^2×11^2=213444
 
-5.if x=√3+1/√3-1 and y=√3-1/√3+1,then the value of (x^2+y^2)is:
-A.10
-B.13
-C.14
-D.15
-ANS:Option C
-explaination:
-x=(√3+1)/(√3-1)×(√3+1)/(√3+1)=(√3+1)^2/(3-1)=3+1+2√3/2=2+√3
-y=(√3-1)/(√3+1)×(√3-1)/(√3+1)=(√3-1)^2/(3-1)=3+1-2√3/2=2-√3
-therefore,x^2+y^2=(2+√3)^2+(2-√3)^2
-                 =2(4+3)
-                 =14
+## h2 5.if x=√3+1/√3-1 and y=√3-1/√3+1,then the value of (x^2+y^2)is:
+### h3 A.10
+### h3 B.13
+### h3 C.14
+### h3 D.15
+## h2 ANS:Option C
+## h2 explaination:
+### h3 x=(√3+1)/(√3-1)×(√3+1)/(√3+1)=(√3+1)^2/(3-1)=3+1+2√3/2=2+√3
+### h3y=(√3-1)/(√3+1)×(√3-1)/(√3+1)=(√3-1)^2/(3-1)=3+1-2√3/2=2-√3
+### h3 therefore,x^2+y^2=(2+√3)^2+(2-√3)^2
+                ### h3=2(4+3)
+                ### h3 =14
                  
-6.what is arun's present age ?
-|.five years ago,arun's age was double that of his son's age at that time.
-||.Present age of arun and his son are in the ratio of 11:6 respectively.
-|||.five years hence,the respective ratio of arun's age and his son's age will become 12:7
-A.Only | and |||
-B.Only || and |||
-C.Only | and |||
-D.Any two of the three 
-E.None of these
-ANS:Option D
-Explaination:
-||.let the present ages of arun and his son be 11× and 6× years respectively.
-|.5 years ago,arun's age=2×his son's age.
-|||.5 years hence,arun's age/son's age=12/7
-clearly,any two of the above will give arun's present age.
-therefore,correct answer is(D).
+## h2 6.what is arun's present age ?
+### h3 |.five years ago,arun's age was double that of his son's age at that time.
+### h3 ||.Present age of arun and his son are in the ratio of 11:6 respectively.
+### h3 |||.five years hence,the respective ratio of arun's age and his son's age will become 12:7
+## h2 A.Only | and |||
+## h2 B.Only || and |||
+## h2 C.Only | and |||
+## h2 D.Any two of the three 
+## h2 E.None of these
+## h2 ANS:Option D
+## h2 Explaination:
+### h3 ||.let the present ages of arun and his son be 11× and 6× years respectively.
+### h3 |.5 years ago,arun's age=2×his son's age.
+### h3 |||.5 years hence,arun's age/son's age=12/7
+### h3 clearly,any two of the above will give arun's present age.
+#### h4 therefore,correct answer is(D).
 
-7.A=X% of y and B=Y% OF x,then which of the following is true ?
-A.A is smaller than B
-B.A is greater than B
-C.Relationship between A and B cannot be determined 
-D.if x is smaller than y,then A is greater than B 
-E. None of these
-ANS:Option E
-explaination:
-x% of y=(x/100×y)=(y/100×x)=y% of x
-therefore A=B.
+## h2 7.A=X% of y and B=Y% OF x,then which of the following is true ?
+## h2 A.A is smaller than B
+## h2 B.A is greater than B
+## h2 C.Relationship between A and B cannot be determined 
+## h2 D.if x is smaller than y,then A is greater than B 
+## h2 E. None of these
+### h3 ANS:Option E
+### h3 explaination:
+### h3 x% of y=(x/100×y)=(y/100×x)=y% of x
+### h3 therefore A=B.
 
-8.if 20% of a=b,then b% of 20 is the same as:
-A. 4% of a
-B. 5% of a
-c. 20% of a
-D.None of these
-ANS:Option A
-Explaination:
-20% of a=b 20/100a=b.
-b% of 20=(b/100×20)=(20/100a×1/100×20)=4/100a=4% of a.
+## h2 8.if 20% of a=b,then b% of 20 is the same as:
+### h3 A. 4% of a
+### h3 B. 5% of a
+### h3 c. 20% of a
+### h3 D.None of these
+## h2 ANS:Option A
+## h2 Explaination:
+### h3 20% of a=b 20/100a=b.
+### h3 b% of 20=(b/100×20)=(20/100a×1/100×20)=4/100a=4% of a.
 
-9.3 pumps,working 8 hours a day,can empty a tank in 2 days.how many hours a day must 4 pumps work to empty the tank in 1 day ?
-A.9
-B.10
-C.11
-D.12
-ANS:Option D
-explaination:
-no.of working hours per day be x.
-more pumps ,less working hours perday (indirect proportion)
-less days,more working hours per day (indirect proportion) 
-pumps 4:3
-days  1:2::8:x
-therefore 4×1×x=3×2×8
-x=(3×2×8)/(4)
-x=12
+## h2 9.3 pumps,working 8 hours a day,can empty a tank in 2 days.how many hours a day must 4 pumps work to empty the tank in 1 day ?
+### h3 A.9
+### h3 B.10
+### h3 C.11
+### h3 D.12
+## h2 ANS:Option D
+## h2 explaination:
+#### h4 no.of working hours per day be x.
+#### h4 more pumps ,less working hours perday (indirect proportion)
+#### h4 less days,more working hours per day (indirect proportion) 
+#### h4 pumps 4:3
+#### h4 days  1:2::8:x
+#### h4 therefore 4×1×x=3×2×8
+##### h5 x=(3×2×8)/(4)
+##### h5 x=12
 
-10.ne pipe can fill a tank three times as fast as another pipe. If together the two pipes can fill the tank in 36 minutes, then the slower pipe alone will be able to fill the tank in:
-	A.	81 min.
-	B.	108 min.
-	C.	144 min.	
-	D.	192 min.
-Correct Answer: Option C
-Explanation:
-Let the slower pipe alone fill the tank in x minutes.
-Then, faster pipe will fill it in	x/3	minutes.
-	1/x+3/x=1/36
-  4/x=1/36
- x = 144 min.
+## h2 10.ne pipe can fill a tank three times as fast as another pipe. If together the two pipes can fill the tank in 36 minutes, then the slower pipe alone will be able to fill the tank in:
+ ### h3	A.81 min.
+ ### h3 B.108 min.
+ ### h3	C.144 min.	
+ ### h3	D.192 min.
+## h2 Correct Answer: Option C
+## h2 Explanation:
+### h3 Let the slower pipe alone fill the tank in x minutes.
+### h3 Then, faster pipe will fill it in x/3 minutes.
+#### h4	1/x+3/x=1/36
+#### h4 4/x=1/36
+##### h5 x = 144 min.
  
-11.	A motorboat, whose speed in 15 km/hr in still water goes 30 km downstream and comes back in a total of 4 hours 30 minutes. The speed of the stream (in km/hr) is:
-	A. 4
-	B.	5	
-	C.	6
-	D.	10Explanation:
-Let the speed of the stream be x km/hr. Then,
-Speed downstream = (15 + x) km/hr,
-speed upstream = (15 - x) km/hr.
-30/(15+x)	+	30/(15-x)	= 4	1/2
-900/225-x^2=9/2
-9x^2=225
-x^2=25
-x=5 km/hr
+## h2  11.A motorboat, whose speed in 15 km/hr in still water goes 30 km downstream and comes back in a total of 4 hours 30 minutes. The speed of the stream (in km/hr) is:
+### h3	A. 4
+### h3 	B.5	
+### h3	C.6
+### h3	D.10
+## H2 correct answer:Option B
+## H2 Explanation:
+#### H4 Let the speed of the stream be x km/hr. Then,
+#### H4 Speed downstream = (15 + x) km/hr,
+#### H4 speed upstream = (15 - x) km/hr.
+##### H5 30/(15+x)+30/(15-x)= 4	1/2
+##### H5 900/225-x^2=9/2
+##### H5 9x^2=225
+###### H6 x^2=25
+###### H6 x=5 km/hr
 
-12.A man took loan from a bank at the rate of 12% p.a. simple interest. After 3 years he had to pay Rs. 5400 interest only for the period. The principal amount borrowed by him was:
-	A.	Rs. 2000	
-	B.	Rs. 10,000
-	C.	Rs. 15,000
-	D.	Rs. 20,000
-Correct Answer: Option C
-Explanation:
-principal =rs.(100 ×5400/12×3)=Rs.15000
+## H2 12.A man took loan from a bank at the rate of 12% p.a. simple interest. After 3 years he had to pay Rs. 5400 interest only for the period. The principal amount borrowed by him was:
+### H3	A.Rs. 2000	
+### H3	B.Rs. 10,000
+### H3	C.Rs. 15,000
+### H3	D.Rs. 20,000
+## H2 Correct Answer: Option C
+## H2 Explanation:
+### H3 principal =rs.(100 ×5400/12×3)=Rs.15000
 
-13.	A man walked diagonally across a square lot. Approximately, what was the percent saved by not walking along the edges?
-	A.	20
-	B.	24	
-	C.	30
-	D.	33
-Correct Answer: Option C
-Explanation:
-Let the side of the square(ABCD) be x metres.
-Then, AB + BC = 2x metres.
-AC = 2x = (1.41x) m.
-Saving on 2x metres = (0.59x) m.
-Saving % =(	0.59 x/2x×100)%	= 30% (approx.)
-
-14.	By investing in 16% stock at 64, one earns Rs. 1500. The investment made is:
-
-	A.	Rs. 5640	
-	B.	Rs. 5760
-	C.	Rs. 7500
-	D.	Rs. 9600
-Correct Answer: Option B
-Explanation:
-To earn Rs.	50/3, investment = Rs. 64.
-To earn Rs. 1500, investment = Rs.(64x3/50x 1500)	= Rs. 5760
-
-15.	A man buys a watch for Rs. 1950 in cash and sells it for Rs. 2200 at a credit of 1 year. If the rate of interest is 10% per annum, the man:
-  A.	gains Rs. 55
-	B.	gains Rs. 50	
-	C.	loses Rs. 30
-	D.	gains Rs. 30
-Correct Answer: Option B
-Explanation:
-
-S.P.	= P.W. of Rs. 2200 due 1 year hence
-= Rs.[2200×100/100+(10×1)]
-= Rs. 2000.
- Gain = Rs. (2000 - 1950)=rs.50
+## H2   13.A man walked diagonally across a square lot. Approximately, what was the percent saved by not walking along the edges?
+### H3	A.20
+### H3	B.24	
+### H3	C.30
+### H3 	D.33
+## H2 Correct Answer: Option C
+## H2 Explanation:
+### H3 Let the side of the square(ABCD) be x metres.
+### H3 Then, AB + BC = 2x metres.
+#### H4 AC = 2x = (1.41x) m.
+#### H4 Saving on 2x metres = (0.59x) m.
+#### H4 Saving % =(0.59 x/2x×100)%= 30% (approx.)
  
-16.	10, 25, 45, 54, 60, 75, 80
-  A.	10
-	B.	45
-	C.	54	
-	D.	75
-Correct Answer: Option C
-Explanation:
-Each of the numbers except 54 is multiple of 5.
+## H2 14.By investing in 16% stock at 64, one earns Rs. 1500. The investment made is:
+### H3 A.Rs. 5640	
+### H3	B.Rs. 5760
+### H3	C.Rs. 7500
+### H3	D.Rs. 9600
+## H2 Correct Answer: Option B
+## H2Explanation:
+#### H4 To earn Rs.50/3, investment = Rs. 64.
+#### H4 To earn Rs. 1500, investment = Rs.(64x3/50x 1500)= Rs. 5760
 
-17.	582, 605, 588, 611, 634, 617, 600
-  A.	634	
-	B.	611
-	C.	605
-	D.	600
-Correct Answer: Option A
-Explanation:
+## H2 15.A man buys a watch for Rs. 1950 in cash and sells it for Rs. 2200 at a credit of 1 year. If the rate of interest is 10% per annum, the man:
+### H3  A.gains Rs. 55
+### H3	B.gains Rs. 50	
+### H3	C.loses Rs. 30
+### H3	D.gains Rs. 30
+## H2 Correct Answer: Option B
+## H2 Explanation:
+### H3    S.P.	= P.W. of Rs. 2200 due 1 year hence
+### H3 = Rs.[2200×100/100+(10×1)]
+### H3 = Rs. 2000.
+#### H4  Gain = Rs. (2000 - 1950)=rs.50
+ 
+## H2 16.	10, 25, 45, 54, 60, 75, 80
+### H3  A.	10
+### H3	B.	45
+### H3	C.	54	
+### H3	D.	75
+## H2 Correct Answer: Option C
+## H2 Explanation:
+## H2 Each of the numbers except 54 is multiple of 5.
 
-Alternatively 23 is added and 17 is subtracted from the terms. So, 634 is wrong.
+## H2 17.582, 605, 588, 611, 634, 617, 600
+### H3  A.634	
+### H3	B.611
+### H3	C.605
+### H3	D.600
+## H2 Correct Answer: Option A
+## H2 Explanation:
+### H3 Alternatively 23 is added and 17 is subtracted from the terms. So, 634 is wrong.
 
-18.	36, 54, 18, 27, 9, 18.5, 4.5
+## H2 18.36, 54, 18, 27, 9, 18.5, 4.5
+### H3 A.4.5	
+### H3	B.18.5
+### H3	C.54
+### H3	D.18
+## H2 Correct Answer: Option B
+## H2 Explanation:
+### H3 The terms are alternatively multiplied by 1.5 and divided by 3. However, 18.5 does not satisfy it
 
-	A.	4.5	
-	B.	18.5
-	C.	54
-	D.	18
-Correct Answer: Option B
-Explanation:
+## H2 19.56, 72, 90, 110, 132, 150
+### H3	A.72
+### H3	B.110	
+### H3	C.132
+### H3	D.150
+## H2 Correct Answer: Option D
+## H2 Explanation:
+### H3 The numbers are 7 x 8, 8 x 9, 9 x 10, 10 x 11, 11 x 12, 12 x 13.
+#### H4 So, 150 is wrong.
 
-The terms are alternatively multiplied by 1.5 and divided by 3. However, 18.5 does not satisfy it
+## H2 20.8, 24, 12, 36, 18, 54, (....)
+### H3	A.27	
+### H3	B.108
+### H3	C.68
+### H3	D.72
+## H2 Correct Answer: Option A
+## H2 Explanation:
+#### H4 Numbers are alternatively multiplied by 3 and divided by 2.
+#### H4 So, the next number = 54 ÷ 2 = 2
 
-19.	56, 72, 90, 110, 132, 150
-	A.	72
-	B.	110	
-	C.	132
-	D.	150
-Correct Answer: Option D
-Explanation:
-The numbers are 7 x 8, 8 x 9, 9 x 10, 10 x 11, 11 x 12, 12 x 13.
-So, 150 is wrong.
-
-20.	8, 24, 12, 36, 18, 54, (....)
-	A.	27	
-	B.	108
-	C.	68
-	D.	72
-Correct Answer: Option A
-Explanation:
-Numbers are alternatively multiplied by 3 and divided by 2.
-
-So, the next number = 54 ÷ 2 = 27
-
-<h1>aptitude test 2</h1>
+# H1 aptitude test 2
 
 1.	In a regular week, there are 5 working days and for each day, the working hours are 8. A man gets Rs. 2.40 per hour for regular work and Rs. 3.20 per hours for overtime. If he earns Rs. 432 in 4 weeks, then how many hours does he work for ?
 	A.	160	
