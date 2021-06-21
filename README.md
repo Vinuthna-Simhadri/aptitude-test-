@@ -231,298 +231,293 @@
 
 # H1 aptitude test 2
 
-1.	In a regular week, there are 5 working days and for each day, the working hours are 8. A man gets Rs. 2.40 per hour for regular work and Rs. 3.20 per hours for overtime. If he earns Rs. 432 in 4 weeks, then how many hours does he work for ?
-	A.	160	
-	B.	175
-	C.	180
-	D.	195
-Correct Answer: Option B
-Explanation:
-Suppose the man works overtime for x hours.
-Now, working hours in 4 weeks = (5 x 8 x 4) = 160.
-160 x 2.40 + x x 3.20 = 432
- 3.20x = 432 - 384 = 48
- x = 15.
-Hence, total hours of work = (160 + 15) = 175.
+## h2 1.In a regular week, there are 5 working days and for each day, the working hours are 8. A man gets Rs. 2.40 per hour for regular work and Rs. 3.20 per hours for overtime. If he earns Rs. 432 in 4 weeks, then how many hours does he work for ?
+### h3	A.160	
+### h3	B.175
+### h3	C.180
+### h3	D.195
+## h2 Correct Answer: Option B
+## h2 Explanation:
+### h3 Suppose the man works overtime for x hours.
+### h3 Now, working hours in 4 weeks = (5 x 8 x 4) = 160.
+### h3 160 x 2.40 + x x 3.20 = 432
+### h3  3.20x = 432 - 384 = 48
+### h3 x = 15.
+#### h4 Hence, total hours of work = (160 + 15) = 175.
 
-2.	(√625/11 14/√25 11/√196) is equal to:
-	A.	5
-	B.	6	
-	C.	8
-	D.	11
-Correct Answer: Option A
-Explanation:
-Given Expression =25/11	x	14/5x	11/14	=5
+## h2 2.(√625/11 14/√25 11/√196) is equal to:
+### h3	A.5
+### h3	B.6	
+### h3	C.8
+### h3	D.11
+## h2 Correct Answer: Option A
+## h2 Explanation:
+### h3 Given Expression =25/11x14/5x11/14=5
 
-Direction (for Q.No. 3):
+## h2 Direction (for Q.No. 3):
 Each of the questions given below consists of a question followed by three statements. You have to study the question and the statements and decide which of the statement(s) is/are necessary to answer the question.
 
-3.In a cricket team, the average age of eleven players in 28 years. What is the age of the captain?
-I.The captain is eleven years older than the youngest player.
-II.The average age of 10 players, other than the captain is 27.3 years.
-III. Leaving aside the captain and the youngest player, the average ages of three groups of three players each are 25 years, 28 years and 30 years respectively.
-A.Any two of the three
-B.	All I, II and III	
-C.	II only or I and III only
-D.	II and III only
-E.	None of these
-Correct Answer: Option C
-Explanation:
-Total age of 11 players = (28 x 11) years = 308 years.
- I. C = Y + 11      C - Y = 11 .... (i)
-II. Total age of 10 players (excluding captain) = (27.3 x 10) years = 273 years.
- Age of captain = (308 - 273) years = 35 years.
-Thus, C = 35. .... (ii)
-From (i) and (ii), we get Y = 24
-III. Total age of 9 players = [ (25 x 3) + (28 x 3) + (30 x 3)] years = 249 years.
-C + Y = (308 - 249) = 59 .... (iii)
-From (i) and (iii), we get C = 35.
-Thus, II alone gives the answer.
-Also, I and III together give the answer.
- Correct answer is (C).
+## h2 3.In a cricket team, the average age of eleven players in 28 years. What is the age of the captain?
+### h3 I.The captain is eleven years older than the youngest player.
+### h3 II.The average age of 10 players, other than the captain is 27.3 years.
+### h3 III. Leaving aside the captain and the youngest player, the average ages of three groups of three players each are 25 years, 28 years and 30 years respectively.
+## h2 A.Any two of the three
+## h2 B.All I, II and III	
+## h2 C.II only or I and III only
+## h2 D.II and III only
+## h2 E.None of these
+## h2 Correct Answer: Option C
+## h2 Explanation:
+### h3 Total age of 11 players = (28 x 11) years = 308 years.
+### h3  I. C = Y + 11      C - Y = 11 .... (i)
+### h3 II. Total age of 10 players (excluding captain) = (27.3 x 10) years = 273 years.
+### h3  Age of captain = (308 - 273) years = 35 years.
+### h3 Thus, C = 35. .... (ii)
+### h3 From (i) and (ii), we get Y = 24
+### h3 III. Total age of 9 players = [ (25 x 3) + (28 x 3) + (30 x 3)] years = 249 years.
+### h3 C + Y = (308 - 249) = 59 .... (iii)
+### h3 From (i) and (iii), we get C = 35.
+### h3 Thus, II alone gives the answer.
+### h3 Also, I and III together give the answer.
+## h2 Correct answer is (C).
 
-4.	In a two-digit, if it is known that its unit's digit exceeds its ten's digit by 2 and that the product of the given number and the sum of its digits is equal to 144, then the number is:
-	A.	24	
-	B.	26
-	C.	42
-	D.	46
-Correct Answer: Option A
-Explanation:
-Let the ten's digit be x.
-Then, unit's digit = x + 2.
-Number = 10x + (x + 2) = 11x + 2.
-Sum of digits = x + (x + 2) = 2x + 2.
- (11x + 2)(2x + 2) = 144
- 22x^2+ 26x - 140 = 0
- 11x^2+ 13x - 70 = 0
- (x - 2)(11x + 35) = 0
- x = 2.
-Hence, required number = 11x + 2 = 24.
+## h2 4.In a two-digit, if it is known that its unit's digit exceeds its ten's digit by 2 and that the product of the given number and the sum of its digits is equal to 144, then the number is:
+### h3 	A.	24	
+### h3 	B.	26
+### h3 	C.	42
+### h3	D.	46
+## h2 Correct Answer: Option A
+## h2 Explanation:
+### h3 Let the ten's digit be x.
+### h3 Then, unit's digit = x + 2.
+### h3 Number = 10x + (x + 2) = 11x + 2.
+### h3 Sum of digits = x + (x + 2) = 2x + 2.
+### h3 (11x + 2)(2x + 2) = 144
+### h3  22x^2+ 26x - 140 = 0
+### h3  11x^2+ 13x - 70 = 0
+### h3 (x - 2)(11x + 35) = 0
+## h2 x = 2.
+### h3 Hence, required number = 11x + 2 = 24.
 
-5.	Find a positive number which when increased by 17 is equal to 60 times the reciprocal of the number.
-	A.	3
-	B.	10	
-	C.	17
-	D.	20
-Correct Answer: Option A
-Explanation:
-Let the number be x.
-Then, x + 17 =	60/x
- x^2 + 17x - 60 = 0
- (x + 20)(x - 3) = 0
- x = 3
+## h2 5.Find a positive number which when increased by 17 is equal to 60 times the reciprocal of the number.
+### h3	A.3
+### h3	B.10	
+### h3 	C.17
+### h3 	D.20
+## h2 Correct Answer: Option A
+## h2 Explanation:
+### h3 Let the number be x.
+### h3 Then, x + 17 =	60/x
+### h3  x^2 + 17x - 60 = 0
+### h3  (x + 20)(x - 3) = 0
+### h3  x = 3
 
-6.	Ayesha's father was 38 years of age when she was born while her mother was 36 years old when her brother four years younger to her was born. What is the difference between the ages of her parents?
-	A.	2 years
-	B.	4 years	
-	C.	6 years
-	D.	8 years
-Correct Answer: Option C
-Explanation:
-Mother's age when Ayesha's brother was born = 36 years.
-Father's age when Ayesha's brother was born = (38 + 4) years = 42 years.
-Required difference = (42 - 36) years = 6 years.
+## h2 6.Ayesha's father was 38 years of age when she was born while her mother was 36 years old when her brother four years younger to her was born. What is the difference between the ages of her parents?
+### h3 	A.2 years
+### h3 	B.4 years	
+### h3 	C.6 years
+### h3	D.8 years
+## h2 Correct Answer: Option C
+## h2 Explanation:
+#### h4 Mother's age when Ayesha's brother was born = 36 years.
+#### h4 Father's age when Ayesha's brother was born = (38 + 4) years = 42 years.
+## h3 Required difference = (42 - 36) years = 6 years.
 
-Direction (for Q.No. 7):
+## h2 Direction (for Q.No. 7):
 Each of the questions given below consists of a question followed by three statements. You have to study the question and the statements and decide which of the statement(s) is/are necessary to answer the question.
-7.	What is the present age of Tanya?
-I. The ratio between the present ages of Tanya and her brother Rahul is 3 : 4 respectively.
-II.After 5 years the ratio between the ages of Tanya and Rahul will be 4 : 5.
-III. Rahul is 5 years older than Tanya.
-	A.	I and II only
-	B.	II and III only
-	C.	I and III only	
-	D.	All I, II and III
-	E.	Any two of the three
-Correct Answer: Option E
-Explanation:
-  I. Let the present ages of Tanya and Rahul be 3x years and 4x years.
- II. After 5 years, (Tanya's age) : (Rahul's age) = 4 : 5.
-III. (Rahul's age) = (Tanya's age) + 5.
+## h2 7.What is the present age of Tanya?
+### h3 I. The ratio between the present ages of Tanya and her brother Rahul is 3 : 4 respectively.
+### h3 II.After 5 years the ratio between the ages of Tanya and Rahul will be 4 : 5.
+### h3 III. Rahul is 5 years older than Tanya.
+## h2 	A.I and II only
+## h2	B.II and III only
+## h2	C.I and III only	
+## h2	D.All I, II and III
+## h2	E.Any two of the three
+## h2 Correct Answer: Option E
+## h2 Explanation:
+### h3  I. Let the present ages of Tanya and Rahul be 3x years and 4x years.
+### h3 II. After 5 years, (Tanya's age) : (Rahul's age) = 4 : 5.
+### h3 III. (Rahul's age) = (Tanya's age) + 5.
 
-From I and II, we get	3x+5/4x+5=4/5	. This gives x.
- Tanya's age = 3x can be found. Thus, I and II give the answer.
+#### h4 From I and II, we get	3x+5/4x+5=4/5	. This gives x.
+#### h4  Tanya's age = 3x can be found. Thus, I and II give the answer.
 
-From I and III, we get 4x = 3x + 5. This gives x.
- Tanya's age = 3x can be found. Thus, I and III give the answer.
+#### h4 From I and III, we get 4x = 3x + 5. This gives x.
+#### h4 Tanya's age = 3x can be found. Thus, I and III give the answer.
 
-From III : Let Tanya's present age be t years.
-Then Rahul's present age = (t + 5) years.
+#### h4 From III : Let Tanya's present age be t years.
+#### h4 Then Rahul's present age = (t + 5) years.
 
-Thus, from II and III, we get :	t/t+5	=	4/5. This gives t.
-Thus, II and III give the answer.
- Correct answer is (E)
+##### h5 Thus, from II and III, we get :t/t+5=4/5. This gives t.
+##### h5 Thus, II and III give the answer.
+### h3 Correct answer is (E)
 
-8.In an election between two candidates, one got 55% of the total valid votes, 20% of the votes were invalid. If the total number of votes was 7500, the number of valid votes that the other candidate got, was:
-  A.	2700	
-	B.	2900
-	C.	3000
-	D.	3100
-Correct Answer: Option A
-Explanation:
-Number of valid votes = 80% of 7500 = 6000.
- Valid votes polled by other candidate = 45% of 6000
-=		(45/100	x 6000)	= 2700.
+## h2 8.In an election between two candidates, one got 55% of the total valid votes, 20% of the votes were invalid. If the total number of votes was 7500, the number of valid votes that the other candidate got, was:
+### h3  A.2700	
+### h3	B.2900
+### h3	C.3000
+### h3	D.3100
+## h2 Correct Answer: Option A
+## h2 Explanation:
+### h3 Number of valid votes = 80% of 7500 = 6000.
+### h3 Valid votes polled by other candidate = 45% of 6000
+## h2=	(45/100	x 6000)	= 2700.
 
-9.	A trader mixes 26 kg of rice at Rs. 20 per kg with 30 kg of rice of other variety at Rs. 36 per kg and sells the mixture at Rs. 30 per kg. His profit percent is:
-	A.	No profit, no loss
-	B.	5%	
-	C.	8%
-	D.	10%
-	E.	None of these
-Correct Answer: Option B
-Explanation:
-C.P. of 56 kg rice = Rs. (26 x 20 + 30 x 36) = Rs. (520 + 1080) = Rs. 1600.
-S.P. of 56 kg rice = Rs. (56 x 30) = Rs. 1680.
- Gain =	(80/1600)x 100	% = 5%.
+## h2 9.A trader mixes 26 kg of rice at Rs. 20 per kg with 30 kg of rice of other variety at Rs. 36 per kg and sells the mixture at Rs. 30 per kg. His profit percent is:
+### h3	A.No profit, no loss
+### h3	B.5%	
+### h3	C.8%
+### h3	D.10%
+### h3	E.None of these
+## h2 Correct Answer: Option B
+## h2 Explanation:
+### h3 C.P. of 56 kg rice = Rs. (26 x 20 + 30 x 36) = Rs. (520 + 1080) = Rs. 1600.
+### h3 S.P. of 56 kg rice = Rs. (56 x 30) = Rs. 1680.
+### h3 Gain =	(80/1600)x 100	% = 5%.
 
-Direction (for Q.No. 10):
-Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements and
-Give answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.
-Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.
-Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.
-Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.
-Give answer(E) if the data in both Statements I and II together are necessary to answer the question.
+## h2 Direction (for Q.No. 10):
+## h2 Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements and
+### h3 Give answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.
+### h3 Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.
+### h3 Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.
+### h3 Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.
+### h3 Give answer(E) if the data in both Statements I and II together are necessary to answer the question.
 
-10.	
-A man mixes two types of rice (X and Y) and sells the mixture at the rate of Rs. 17 per kg. Find his profit percentage.
+## h2 10.A man mixes two types of rice (X and Y) and sells the mixture at the rate of Rs. 17 per kg. Find his profit percentage.
 
-I. The rate of X is Rs. 20 per kg.
-II. The rate of Y is Rs. 13 per kg.
+### h3 I. The rate of X is Rs. 20 per kg.
+### h3 II. The rate of Y is Rs. 13 per kg.
 
-  A.	I alone sufficient while II alone not sufficient to answer	
-	B.	II alone sufficient while I alone not sufficient to answer
-	C.	Either I or II alone sufficient to answer
-	D.	Both I and II are not sufficient to answer
-	E.	Both I and II are necessary to answer
-Correct Answer: Option D
-Explanation:
-The ratio, in which X and Y are mixed, is not given.
-So, both I and II together cannot give the answer.
-Correct answer is (D).
+## h2   A.I alone sufficient while II alone not sufficient to answer	
+### h3	B.II alone sufficient while I alone not sufficient to answer
+### h3 	C.Either I or II alone sufficient to answer
+### h3 	D.Both I and II are not sufficient to answer
+### h3	E.Both I and II are necessary to answer
+## h2 Correct Answer: Option D
+## h2 Explanation:
+### h3 The ratio, in which X and Y are mixed, is not given.
+### h3 So, both I and II together cannot give the answer.
+### h3 Correct answer is (D).
 
+## h2 11.An industrial loom weaves 0.128 metres of cloth every second. Approximately, how many seconds will it take for the loom to weave 25 metres of cloth?
+### h3  A.178
+### h3	B.195	
+### h3	C.204
+### h3	D.488
+## h2 Correct Answer: Option B
+## h2 Explanation:
+### h3 Le the required time be x seconds.
+### h3 More metres, More time (Direct Proportion)
+### h3 0.128 : 25 :: 1 : x        0.128x = 25 x 1
+### h3 x =	25/0.128=	25 x 1000/128
+### h3 x = 195.31.
+## h2 Required time = 195 sec (approximately).
 
-11.	An industrial loom weaves 0.128 metres of cloth every second. Approximately, how many seconds will it take for the loom to weave 25 metres of cloth?
-  A.	178
-	B.	195	
-	C.	204
-	D.	488
-Correct Answer: Option B
-Explanation:
-Le the required time be x seconds.
-More metres, More time (Direct Proportion)
- 0.128 : 25 :: 1 : x        0.128x = 25 x 1
+## h2 12.A takes twice as much time as B or thrice as much time as C to finish a piece of work. Working together, they can finish the work in 2 days. B can do the work alone in:
+### h3 	A.4 days	
+### h3	B.6 days
+### h3 	C.8 days
+### h3 	D.12 days
+## h2 Correct Answer: Option B
+## h2 Explanation:
+### h3 Suppose A, B and C take x,x/2and	x/3days respectively to finish the work.
+### h3 Then,(1/x+2/x+3/x)=1/2
+### h3	6/x=1/2
+## h2 x = 12.
+## h2 So, B takes (12/2) = 6 days to finish the work.
 
-x =	25/0.128=	25 x 1000/128
-x = 195.31.
- Required time = 195 sec (approximately).
+## h2 13.If log 27 = 1.431, then the value of log 9 is:
+### h3 	A.0.934
+### h3	B.0.945	
+### h3	C.0.954
+### h3	D.0.958
+## h2 Correct Answer: Option C
+## h2 Explanation:
+### h3 log 27 = 1.431
+### h3  log (33) = 1.431
+### h3  3 log 3 = 1.431
+### h3 log 3 = 0.477
+## h2 log 9 = log(32 ) = 2 log 3 = (2 x 0.477) = 0.954.
 
-12.	A takes twice as much time as B or thrice as much time as C to finish a piece of work. Working together, they can finish the work in 2 days. B can do the work alone in:
-	A.	4 days	
-	B.	6 days
-	C.	8 days
-	D.	12 days
-Correct Answer: Option B
-Explanation:
-Suppose A, B and C take x,x	/2and	x/3	days respectively to finish the work.
-Then,	(	1	/x+	2	/x+	3/x	)	=	1/2
-	6	/x=	1/2
- x = 12.
-So, B takes (12/2) = 6 days to finish the work.
+## h2 14.If log10 2 = 0.3010, the value of log10 80 is:
+### h3 	A.	1.6020
+### h3	B.	1.9030	
+### h3	C.	3.9030
+### h3	D.	None of these
+## h2 Correct Answer: Option B
+## h2 Explanation:
+### h3 log10 80	= log10 (8 x 10)
+### h3 = log10 8 + log10 10
+### h3 = log10 (23 ) + 1
+### h3 = 3 log10 2 + 1
+### h3= (3 x 0.3010) + 1
+## h2 = 1.9030.
 
-13.	If log 27 = 1.431, then the value of log 9 is:
-	A.	0.934
-	B.	0.945	
-	C.	0.954
-	D.	0.958
-Correct Answer: Option C
-Explanation:
-log 27 = 1.431
- log (33) = 1.431
- 3 log 3 = 1.431
- log 3 = 0.477
- log 9 = log(32 ) = 2 log 3 = (2 x 0.477) = 0.954.
+## h2 15.The ratio between the length and the breadth of a rectangular park is 3 : 2. If a man cycling along the boundary of the park at the speed of 12 km/hr completes one round in 8 minutes, then the area of the park (in sq. m) is:
+### h3	A.15360	
+### h3	B.153600
+### h3	C.30720
+### h3	D.307200
+## h2 Correct Answer: Option B
+## h2 Explanation:
+### h3 Perimeter = Distance covered in 8 min. =(12000/60x 8)m = 1600 m.
+### h3 Let length = 3x metres and breadth = 2x metres.
+### h3 Then, 2(3x + 2x) = 1600 or x = 160.
+### h3 Length = 480 m and Breadth = 320 m.
+## h2 Area = (480 x 320) m^2= 153600 m^2
 
-14.	If log10 2 = 0.3010, the value of log10 80 is:
-	A.	1.6020
-	B.	1.9030	
-	C.	3.9030
-	D.	None of these
-Correct Answer: Option B
-Explanation:
-log10 80	= log10 (8 x 10)
-= log10 8 + log10 10
-= log10 (23 ) + 1
-= 3 log10 2 + 1
-= (3 x 0.3010) + 1
-= 1.9030.
+## h2 16.The slant height of a right circular cone is 10 m and its height is 8 m. Find the area of its curved surface.
+### h3	A.30 m2	
+### h3	B.40 m2
+### h3	C.60 m2
+### h3	D.80 m2
+## h2 Correct Answer: Option C
+## h2 Explanation:
+### h3 l = 10 m,
+### h3 = 8 m.
+### h3 So, r = vl^2 - h^2 = v(10)^2 - 8^2 = 6 m.
+## h2  Curved surface area = rl = ( x 6 x 10) m2 = 60 m2
 
-15.	The ratio between the length and the breadth of a rectangular park is 3 : 2. If a man cycling along the boundary of the park at the speed of 12 km/hr completes one round in 8 minutes, then the area of the park (in sq. m) is:
-	A.	15360	
-	B.	153600
-	C.	30720
-	D.	307200
-Correct Answer: Option B
-Explanation:
-Perimeter = Distance covered in 8 min. =(12000/60	x 8	)m = 1600 m.
-Let length = 3x metres and breadth = 2x metres.
-Then, 2(3x + 2x) = 1600 or x = 160.
- Length = 480 m and Breadth = 320 m.
- Area = (480 x 320) m^2= 153600 m^2
+## h2 17.A man wants to sell his scooter. There are two offers, one at Rs. 12,000 cash and the other a credit of Rs. 12,880 to be paid after 8 months, money being at 18% per annum. Which is the better offer?
+### h3	A.Rs. 12,000 in cash
+### h3	B.s. 12,880 at credit	
+### h3	C.Both are equally good
+## h2 Correct Answer: Option A
+## h2 Explanation:
+### h3 P.W. of Rs. 12,880 due 8 months hence	
+### h3 = Rs.(12880×100/100+(18×8/12)
+### h3 = Rs.(12880 x 100/112)
+## h2 = Rs. 11500.
 
-16.	The slant height of a right circular cone is 10 m and its height is 8 m. Find the area of its curved surface.
-	A.	30 m2	
-	B.	40 m2
-	C.	60 m2
-	D.	80 m2
-Correct Answer: Option C
-Explanation:
-l = 10 m,
-h = 8 m.
-So, r = vl^2 - h^2 = v(10)^2 - 8^2 = 6 m.
- Curved surface area = rl = ( x 6 x 10) m2 = 60 m2
+## h2 18.The banker's discount of a certain sum of money is Rs. 72 and the true discount on the same sum for the same time is Rs. 60. The sum due is:
+### h3 	A.Rs. 360	
+### h3	B.Rs. 432
+### h3	C.Rs. 540
+### h3	D.Rs. 1080
+## h2 Correct Answer: Option A
+## h2 Explanation:
+### h3 Sum =B.D. x T.D./B.D.-T.D. = Rs.	(72 x 60/72-60)= Rs.(72 x 60/12)= Rs. 360.
 
-17.	A man wants to sell his scooter. There are two offers, one at Rs. 12,000 cash and the other a credit of Rs. 12,880 to be paid after 8 months, money being at 18% per annum. Which is the better offer?
-	A.	Rs. 12,000 in cash
-	B.	s. 12,880 at credit	
-	C.	Both are equally good
-Correct Answer: Option A
-Explanation:
+## h2 19.A man standing at a point P is watching the top of a tower, which makes an angle of elevation of 30° with the man's eye. The man walks some distance towards the tower to watch its top and the angle of the elevation becomes 60°. What is the distance between the base of the tower and the point P?
+### h3	A.43 units	
+### h3	B.8 units
+### h3	C.12 units
+### h3	D.Data inadequate
+### h3	E.None of these
+## h2 Correct Answer: Option D
+## h2 Explanation:
+### h3 One of AB, AD and CD must have given.
+### h3 So, the data is inadequate.
 
-P.W. of Rs. 12,880 due 8 months hence	
-= Rs.(12880×100/100+(18×8/12)
-= Rs.(12880 x 100/112)
-= Rs. 11500.
+## h2 Direction (for Q.No. 20):
+## h2 Insert the missing number.
+## h2 20.8, 7, 11, 12, 14, 17, 17, 22, (....)
+### h3	A.27	
+### h3	B.20
+### h3	C.22
+### h3	D.24
+## h2 Correct Answer: Option B
+## h2 Explanation:
+### h3 There are two series (8, 11, 14, 17, 20) and (7, 12, 17, 22) increasing by 3 and 5 respectively.
 
-18.	The banker's discount of a certain sum of money is Rs. 72 and the true discount on the same sum for the same time is Rs. 60. The sum due is:
-	A.	Rs. 360	
-	B.	Rs. 432
-	C.	Rs. 540
-	D.	Rs. 1080
-Correct Answer: Option A
-Explanation:
-
-Sum =	B.D. x T.D./B.D.-T.D. = Rs.	(	72 x 60/72-60)= Rs.(72 x 60/12)	= Rs. 360.
-
-19.	A man standing at a point P is watching the top of a tower, which makes an angle of elevation of 30° with the man's eye. The man walks some distance towards the tower to watch its top and the angle of the elevation becomes 60°. What is the distance between the base of the tower and the point P?
-	A.	43 units	
-	B.	8 units
-	C.	12 units
-	D.	Data inadequate
-	E.	None of these
-Correct Answer: Option D
-Explanation:
-One of AB, AD and CD must have given.
-So, the data is inadequate.
-
-Direction (for Q.No. 20):
-Insert the missing number.
-20.	
-8, 7, 11, 12, 14, 17, 17, 22, (....)
-	A.	27	
-	B.	20
-	C.	22
-	D.	24
-Correct Answer: Option B
-Explanation:
-There are two series (8, 11, 14, 17, 20) and (7, 12, 17, 22) increasing by 3 and 5 respectively.
