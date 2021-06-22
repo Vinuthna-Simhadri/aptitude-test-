@@ -792,7 +792,7 @@ Each of the questions given below consists of a question followed by three state
 ### H3 Numbers are 1^2, 2^2, 3^2, 4^2, 5^2, 6^2, 7^2.
 ## H2So, the next number is 82 = 64.
 
-# h1 aptitude test 3 
+# h1 aptitude test 4
 ## h2 1.A fires 5 shots to B's 3 but A kills only once in 3 shots while B kills once in 2 shots. When B has missed 27 times, A has killed:
 ### h3 	A.	30 birds	
 ### h3	B.	60 birds
