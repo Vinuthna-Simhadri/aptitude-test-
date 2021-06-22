@@ -791,3 +791,261 @@ Each of the questions given below consists of a question followed by three state
 ### H3 Explanation:
 ### H3 Numbers are 1^2, 2^2, 3^2, 4^2, 5^2, 6^2, 7^2.
 ## H2So, the next number is 82 = 64.
+
+# h1 aptitude test 3 
+## h2 1.A fires 5 shots to B's 3 but A kills only once in 3 shots while B kills once in 2 shots. When B has missed 27 times, A has killed:
+### h3 	A.	30 birds	
+### h3	B.	60 birds
+### h3	C.	72 birds
+### h3 	D.	90 birds
+## h2 Correct Answer: Option A
+## h2 Explanation:
+### h3 Let the total number of shots be x. Then,
+### h3 Shots fired by A =	5/8 x
+### h3 Shots fired by B =	3/8	x
+### h3 Killing shots by A =	1/3	of	5/8	x	=	5/24 x
+### h3 Shots missed by B =	1	/2 of	3/8 x	=	3/16 x
+### h3 	3x/16 = 27 or x =		(27 x 16/3)		= 144.
+### h3 Birds killed by A =	5x/24	=		(5/24 x 144)		= 30.
+
+## h2 2.	Six years ago, the ratio of the ages of Kunal and Sagar was 6 : 5. Four years hence, the ratio of their ages will be 11 : 10. What is Sagar's age at present?
+### h3 	A.	16 years
+### h3 	B.	18 years	
+### h3 	C.	20 years
+### h3	D.	Cannot be determined
+### h3 	E.	None of these
+### h3 Correct Answer: Option A
+### h3 Explanation:
+#### h4 Let the ages of Kunal and Sagar 6 years ago be 6x and 5x years respectively.
+#### h4 Then,	(6x + 6) + 4/(5x+6)+4	=	11/10
+#### h4  10(6x + 10) = 11(5x + 10)
+#### h4  5x = 10
+#### h4 x = 2.
+### h3 Sagar's present age = (5x + 6) = 16 years.
+
+## h2 3.Q is as much younger than R as he is older than T. If the sum of the ages of R and T is 50 years, what is definitely the difference between R and Q's age?
+### h3	A.	1 year
+### h3 	B.	2 years
+### h3 	C.	25 years	
+### h3 	D.	Data inadequate
+### h3 	E.	None of these
+### h3 Correct Answer: Option D
+### h3 Explanation:
+### h3 Given that:
+### h3 1. The difference of age b/w R and Q = The difference of age b/w Q and T.
+### h3 2. Sum of age of R and T is 50 i.e. (R + T) = 50.
+### h3 Question: R - Q = ?.
+### h3 Explanation:
+#### h4 R - Q = Q - T
+#### h4 (R + T) = 2Q
+#### h4 Now given that, (R + T) = 50
+#### h4 So, 50 = 2Q and therefore Q = 25.
+#### h4 Question is (R - Q) = ?
+#### h4 Here we know the value(age) of Q (25), but we don't know the age of R.
+### h3 Therefore, (R-Q) cannot be determined.
+
+## h2 4.	1/1 + x(b - a) + x(c - a)	+	1/1 + x(a - b) + x(c - b)	+	1/	1 + x(b - c) + x(a - c)	= ?
+### h3 	A.	0
+### h3 	B.	1	
+### h3 	C.	xa - b - c
+### h3	D.	None of these
+### h3 Correct Answer: Option B
+### h3 Explanation:
+### h3 Given Exp. =	1/(1+x^b/x^a+x^c/x^a) + 1	/(1+x^a/x^b+x^c/x^b) + 1/(1+x^b/x^c+x^a/x^c)
+### h3    =	xa/(xa + xb + xc)+	xb/(xa + xb + xc)+	xc/(xa + xb + xc)
+### h3   =	(xa + xb + xc)/(xa + xb + xc)
+### h3  = 1
+
+## h2 5.	1	/1+a(n-m) +	1/1+a(m-n) = ?
+### h3	A.	0
+### h3	B.	1/2
+### h3 	C.	1
+### h3	D.	a^m + n
+### h3 Correct Answer: Option C
+### h3 Explanation:
+### h3 1	/1+ a(n-m) +1/1+a(n-m) =	1/(1+a^n/a^m) +1/(1+a^m/a^n)
+### h3   =	am/(am + an)+	an/(am + an)
+### h3    =	(am + an)/(am + an)
+### h3   = 1.
+
+## h2 6.	Simran started a software business by investing Rs. 50,000. After six months, Nanda joined her with a capital of Rs. 80,000. After 3 years, they earned a profit of Rs. 24,500. What was Simran's share in the profit?
+### h3   A.	Rs. 9,423
+### h3	B.	Rs. 10,250	
+### h3	C.	Rs. 12,500
+### h3	D.	Rs. 10,500
+### h3 Correct Answer: Option D
+### h3 Explanation:
+### h3 Simran : Nanda = (50000 x 36) : (80000 x 30) = 3 : 4.
+### h3 Simran's share = Rs.		24500 x	3/7	= Rs. 10,500.
+
+## h2 7.A, B and C can do a piece of work in 20, 30 and 60 days respectively. In how many days can A do the work if he is assisted by B and C on every third day?
+### h3	A.	12 days	
+### h3	B.	15 days
+### h3	C.	16 days
+### h3	D.	18 days
+### h3 Correct Answer: Option B
+### h3 Explanation:
+### h3 A's 2 day's work =		1/20	x 2		=	1/10	.
+### h3 (A + B + C)'s 1 day's work =		1/20	+	1/30	+	1/60		=	6/60	=	1/10.
+### h3 Work done in 3 days =		1/10	+	1/10	=	1/5	.
+### h3 Now,	1/5	work is done in 3 days.
+### h3 Whole work will be done in (3 x 5) = 15 days.
+
+## h2 8.	Robert is travelling on his cycle and has calculated to reach point A at 2 P.M. if he travels at 10 kmph, he will reach there at 12 noon if he travels at 15 kmph. At what speed must he travel to reach A at 1 P.M.?
+### h3	A.	8 kmph	
+### h3 	B.	11 kmph
+### h3	C.	12 kmph
+### h3 	D.	14 kmph
+### h3 Correct Answer: Option C
+### h3 Explanation:
+### h3 Let the distance travelled by x km.
+### h3 Then,	x/10	-	x/15	= 2
+### h3 3x - 2x = 60
+### h3 x = 60 km.
+### h3 Time taken to travel 60 km at 10 km/hr =		60/10	hrs	= 6 hrs.
+### h3 So, Robert started 6 hours before 2 P.M. i.e., at 8 A.M.
+### h3  Required speed =		60/5	kmph.	= 12 kmph.
+
+## h2 9.	A man rows to a place 48 km distant and come back in 14 hours. He finds that he can row 4 km with the stream in the same time as 3 km against the stream. The rate of the stream is:
+### h3 	A.	1 km/hr	
+### h3	B.	1.5 km/hr
+### h3 	C.	2 km/hr
+### h3	D.	2.5 km/hr
+### h3 Correct Answer: Option A
+### h3 Explanation:
+### h3 Suppose he move 4 km downstream in x hours. Then,
+### h3 Speed downstream =		4	/x	km/hr.
+### h3 Speed upstream =		3	/x	km/hr.
+### h3	48/(4/x)	+	48/(3/x)	= 14 or x =	1/2	.
+### h3 So, Speed downstream = 8 km/hr, Speed upstream = 6 km/hr.
+### h3 Rate of the stream =	1/2(8 - 6) km/hr = 1 km/hr.
+
+## h2 10.	In what ratio must a grocer mix two varieties of pulses costing Rs. 15 and Rs. 20 per kg respectively so as to get a mixture worth Rs. 16.50 kg?
+### h3 	A.	3 : 7	
+### h3 	B.	5 : 7
+### h3 	C.	7 : 3
+### h3	D.	7 : 5
+### h3 Correct Answer: Option C
+### h3 Explanation:
+### h3 By the rule of alligation:
+### h3 Cost of 1 kg pulses of 1st kindCost of 1 kg pulses of 2nd kind
+### h3 Rs. 15	Mean Price
+### h3 Rs. 16.50	Rs. 20
+### h3 3.50	1.50
+### h3 Required rate = 3.50 : 1.50 = 7 : 3.
+
+## h2 11.	If log	a/b	+	log	b/a = log (a + b), then:
+### h3 	A.	a + b = 1	
+### h3 	B.	a - b = 1
+### h3  C.	a = b
+### h3 	D.	a2 - b2 = 1
+### h2 Correct Answer: Option A
+### h2 Explanation:
+### h2 log	a/b	+ log	b/a	= log (a + b)
+### log (a + b) = log		a	/b x	b/a		= log 1.
+### h3 So, a + b = 1.
+
+## h2 12.	In a race of 200 m, A can beat B by 31 m and C by 18 m. In a race of 350 m, C will beat B by:
+### h3 	A.	22.75 m
+### h3	B.	25 m	
+### h3	C.	19.5 m
+### h3	D.	7	4/7	m
+### h3 Your Answer: Option B
+### h3 Correct Answer: Option B
+### h3 Explanation:
+### h3 A : B = 200 : 169.
+### h3 A : C = 200 : 182.
+### H3 C/b	=		C	/A x	A/B		=		182/200	x	200/169		= 182 : 169.
+### H3 When C covers 182 m, B covers 169 m.
+### H3 When C covers 350 m, B covers		169/182 	x 350	m	= 325 m.
+### H3 Therefore, C beats B by (350 - 325) m = 25 m.
+
+## H2 13.	If 6th March, 2005 is Monday, what was the day of the week on 6th March, 2004?
+### H3 	A.	Sunday	
+### H3 	B.	Saturday
+### H3 	C.	Tuesday
+### H3 	D.	Wednesday
+### H3 Correct Answer: Option A
+### H3 Explanation:
+#### H4 The year 2004 is a leap year. So, it has 2 odd days.
+#### H4 But, Feb 2004 not included because we are calculating from March 2004 to March 2005. So it has 1 odd day only.
+#### h4  The day on 6th March, 2005 will be 1 day beyond the day on 6th March, 2004.
+#### h4 Given that, 6th March, 2005 is Monday.
+#### h4 6th March, 2004 is Sunday (1 day before to 6th March, 2005).
+
+## h2 14.	An accurate clock shows 8 o'clock in the morning. Through how may degrees will the hour hand rotate when the clock shows 2 o'clock in the afternoon?
+### h3 	A.	144°
+### h3 	B.	150°	
+### h3 	C.	168°
+### h3 	D.	18o
+### h3 Correct Answer: Option D
+### h3 Explanation:
+Angle traced by the hour hand in 6 hours =		(360/12	x 6)		°	= 180°.
+
+
+## h2 15.	A clock is started at noon. By 10 minutes past 5, the hour hand has turned through:
+### h3 	A.	145°
+### h3	B.	150°	
+### h3 	C.	155°
+### h3 	D.	160°
+### h3 Correct Answer: Option C
+### h3 Explanation:
+### h3 Angle traced by hour hand in 12 hrs = 360°.
+### h3 Angle traced by hour hand in 5 hrs 10 min. i.e.,	31/6 hrs =		360/12	x	31/6 		°	= 155°.
+
+## h2 16.	The market value of a 10.5% stock, in which an income of Rs. 756 is derived by investing Rs. 9000, brokerage being %, is:
+### h3 	A.	Rs. 108.25
+### h3 	B.	Rs. 112.20	
+### h3	C.	Rs. 124.75
+### h3	D.	Rs. 125.25
+### h3 Correct Answer: Option C
+### h3 Explanation:
+### h3 For an income of Rs. 756, investment = Rs. 9000.
+### h3 For an income of Rs.	21/2	, investment = Rs.		9000/756	x	21/2		= Rs. 125.
+### h3 For a Rs. 100 stock, investment = Rs. 125.
+### h3 Market value of Rs. 100 stock = Rs.		125 -	1/4		= Rs. 124.75
+
+## h2 17.	From a pack of 52 cards, two cards are drawn together at random. What is the probability of both the cards being kings?
+### h3 	A.	1/15
+### h3 	B.	25/57
+### h3 	C.  35/256	
+### h3	D.	1/221 
+#### h4 Correct Answer: Option D
+#### h4 Explanation:
+#### h4 Let S be the sample space.
+#### h4 Then, n(S) = 52C2 =	(52 x 51)/(2 x 1)	= 1326.
+#### h4 Let E = event of getting 2 kings out of 4.
+#### h4  n(E) = 4C2 =	(4 x 3)/(2 x 1)	= 6.
+### h3 P(E) =	n(E)/n(S)		=	6/1326	=	1/221	.
+
+## h2 18.	One card is drawn at random from a pack of 52 cards. What is the probability that the card drawn is a face card (Jack, Queen and King only)?
+### h3   A.1/13
+### h3 	B.3/13	
+### h3 	C.1/4	
+### h3 	D.9/52
+### h3 Correct Answer: Option B
+### h3 Explanation:
+### h3 Clearly, there are 52 cards, out of which there are 12 face cards.
+### h3  P (getting a face card) =	12/52	=	3/13	.
+
+## h2 19.	The true discount on Rs. 2562 due 4 months hence is Rs. 122. The rate percent is:
+### A.	12%	
+### B.  13 1/3%	
+###	C.	15%
+###	D.	14%
+### h3 Correct Answer: Option C
+### h3 Explanation:
+### h3 P.W. = Rs. (2562 - 122) = Rs. 2440.
+#### h4  S.I. on Rs. 2440 for 4 months is Rs. 122.
+#### h4 Rate =		(100 x 122	/2440x 1/3) %	= 15%.
+
+## h2 Direction (for Q.No. 20):
+### h3 Find out the wrong number in the given sequence of numbers.
+## h2 20.	22, 33, 66, 99, 121, 279, 594
+### h3	A.	33	
+### h3 	B.	121
+### h3 	C.	279
+### h3 	D.	594
+### h3 Correct Answer: Option C
+### h3 Explanation:
+### h3 Each of the number except 279 is a multiple of 11.
